@@ -11,3 +11,6 @@ A small programm to visualize sensor data received from a Wii Balance Board with
 ## Usage
 1. Connect your Balance Board to your computer over Bluetooth.
 2. Start BalanceBoardMonitor as root.
+
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/WIStudent/BalanceBoardMonitor/master/BalanceBoardMonitor1.png "Screenshot")
